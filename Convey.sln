@@ -5,9 +5,9 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convey", "Convey\Convey.csproj", "{694737C7-7FDC-4276-B3B0-BB93CC97F88E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextureWorkshop", "Convey\TextureWorkshop\TextureWorkshop.csproj", "{178AB259-BCB2-4183-B4C8-CB3F1AF7012B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextureWorkshop", "TextureWorkshop\TextureWorkshop.csproj", "{178AB259-BCB2-4183-B4C8-CB3F1AF7012B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIEffects", "Convey\UIEffects\UIEffects.csproj", "{2964E51C-77CD-420A-B764-285FF200CEF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIEffects", "UIEffects\UIEffects.csproj", "{2964E51C-77CD-420A-B764-285FF200CEF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

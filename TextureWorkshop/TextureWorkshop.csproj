@@ -50,7 +50,7 @@
     <Compile Include="UITextureWorkshop.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Convey.csproj">
+    <ProjectReference Include="..\Convey\Convey.csproj">
       <Project>{694737c7-7fdc-4276-b3b0-bb93cc97f88e}</Project>
       <Name>Convey</Name>
     </ProjectReference>

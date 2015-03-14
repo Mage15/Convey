@@ -51,7 +51,7 @@
     <Compile Include="UIPage.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="UIEffects\UIEffects.csproj">
+    <ProjectReference Include="..\UIEffects\UIEffects.csproj">
       <Project>{2964e51c-77cd-420a-b764-285ff200cef1}</Project>
       <Name>UIEffects</Name>
     </ProjectReference>
